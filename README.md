@@ -12,7 +12,7 @@
 ![terminal](https://github.com/user-attachments/assets/09a4cb34-6c2d-4efd-a50d-81d4c264d4c5)
 
 [# 📊 GitHub Stats:
-https://github-readme-streak-stats.herokuapp.com/?user=realsutanu&theme=dracula
+![](https://github-readme-streak-stats.herokuapp.com/?user=realsutanu&theme=dracula)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
