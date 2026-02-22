@@ -11,8 +11,10 @@
 # 💻 Totally Serious Command Execution
 ![terminal](https://github.com/user-attachments/assets/09a4cb34-6c2d-4efd-a50d-81d4c264d4c5)
 
-[# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=realsutanu&theme=dracula)
+# 📊 GitHub Stats:
+![]([https://github-readme-stats.vercel.app/api?username=realsutanu&theme=dark&hide_border=false&include_all_commits=false&count_private=false](https://github-readme-streak-stats.herokuapp.com/?user=realsutanu&theme=dracula))<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=realsutanu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=realsutanu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
